@@ -2,8 +2,8 @@ import requests
 import json
 import random
 
-USERNAME = "18328307505"
-PASSWORD = "zxfzyz"
+USERNAME = "xxx"  # your id
+PASSWORD = "xxx"  # your password
 
 header = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
